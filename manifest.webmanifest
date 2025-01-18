@@ -1,0 +1,12 @@
+{
+  "name": "Knight Platformer Tutorial",
+  "short_name": "Knight Platformer Tutorial",
+  "id": "com.example.knightplatformer",
+  "description": "An epic Knight platformer all about finding a key and escaping.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
